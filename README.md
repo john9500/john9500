@@ -4,4 +4,5 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on Mobile application Development.
 🌱 I’m currently learning Swift(IOS).
+
 for more information about me.[click here](https://johnsathya.me/)
